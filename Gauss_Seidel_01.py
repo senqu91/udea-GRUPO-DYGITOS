@@ -6,7 +6,7 @@ import math
 import numpy as np
 
 # ---------------- Tensión Nodos de entrada ---------------- 
-
+V= 89798
 V_Bus1 = 1.05
 V_Bus2 = 1
 V_Bus3 = 1.02
